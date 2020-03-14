@@ -13,8 +13,7 @@ import com.bumptech.glide.request.RequestOptions;
 
 public class Detail extends AppCompatActivity {
 
-    Adapter adapterData;
-    ProgressBar progressBar;
+
     ImageView logo;
     TextView nama, deskripsi, stadion, liga;
     String getNama, getdeskripsi, getlogo,getStadion,getLiga;
